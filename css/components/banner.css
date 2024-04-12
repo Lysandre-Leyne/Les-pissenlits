@@ -1,0 +1,10 @@
+.banner {
+	background-image: url(../../image/oui.jpg);
+	color: white;
+	padding: 110px 0px;
+}
+
+.banner h2 {
+	margin: 40px;
+
+}
